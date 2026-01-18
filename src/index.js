@@ -1,4 +1,5 @@
 import { renderProjects } from './dom';
+import "./style.css";
 
 document.body.innerHTML = `
 <h1>Todo App</h1>
